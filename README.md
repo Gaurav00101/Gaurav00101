@@ -32,9 +32,10 @@ I'm a final-year Computer Science and Engineering Student at COER,Roorkee, India
   <a href="#">
     <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   </a>
+  <!--
   <a href="#">
     <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  </a>
+  </a>-->
   <a href="#">
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   </a>
@@ -44,18 +45,21 @@ I'm a final-year Computer Science and Engineering Student at COER,Roorkee, India
   <a href="#">
     <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   </a>
+  <!--
   <a href="#">
     <img src="https://img.shields.io/badge/Express-green?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-  </a>
+  </a>-->
+  <!--
   <a href="#">
     <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  </a>
+  </a>-->
   <a href="#">
     <img src="https://img.shields.io/badge/SQL-green?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
   </a>
+  <!--
   <a href="#">
     <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  </a>
+  </a>-->
 </p>
 
 ## About Me
