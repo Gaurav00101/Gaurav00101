@@ -67,30 +67,24 @@ I'm a final-year Computer Science and Engineering Student at COER,Roorkee, India
 
 You can find me on various coding platforms:
 
-- [LeetCode](https://leetcode.com/Chetan_Batra2001/)
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/chetanbat2001/practice)
-- [CodeChef](https://www.codechef.com/users/chetanbat2001)
+- [LeetCode](https://leetcode.com/gauravprajapati262003/)
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/gauravprajapati262003)
 
 ### GitHub Stats
 
-- ***Profile Views***: ![Profile Views](https://komarev.com/ghpvc/?username=ChetanBatra72)
-- ***GitHub Streak***: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChetanBatra72)
+- ***Profile Views***: ![Profile Views](https://komarev.com/ghpvc/?username=Gaurav00101)
+- ***GitHub Streak***: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gaurav00101)
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChetanBatra72&layout=compact&langs_count=5&custom_title=Most%20Used%20Languages&hide_border=true&bg_color=ffffff00)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav00101&layout=compact&langs_count=5&custom_title=Most%20Used%20Languages&hide_border=true&bg_color=ffffff00)
 
 
-
-### Pinned Repositories
+<!--### Pinned Repositories
 
 Here are some of my featured projects:
 
 1. [ExerConnect](https://github.com/ChetanBatra72/Easy_Fitness)
-2. [Stump-Talks](https://github.com/ChetanBatra72/Chat_Appication)
-3. [Sorting-Visulaizer](https://github.com/ChetanBatra72/Sorting_Vis)
-
-
-
-Feel free to reach out for a chat, collaboration, or if you just want to geek out about code! You can connect with me on [LinkedIn](https://www.linkedin.com/in/chetan-batra-17b8731b7/) or drop me an email at [Gmail](mailto:chetanbat2001@gmail.com).
+-->
+Feel free to reach out for a chat, collaboration, or if you just want to geek out about code! You can connect with me on [LinkedIn](https://www.linkedin.com/in/gaurav-kumar-gola-1600a81bb/) or drop me an email at [Gmail](mailto:gauravprajapati262003@gmail.com).
 
 Happy coding! 🚀
