@@ -43,7 +43,7 @@ I'm a final-year Computer Science and Engineering Student at COER,Roorkee, India
     <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React">
   </a>-->
   <a href="#">
-    <img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   </a>
   <!--
   <a href="#">
