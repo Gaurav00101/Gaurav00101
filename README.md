@@ -22,7 +22,7 @@
 
 # Hi there, I'm Gaurav Kumar Gola! 👋
 
-I'm a final-year Computer Science and Engineering Student at COER,Roorkee, India, with a passion for coding and developing things. I specialize in C++ and consider myself a full-stack developer with knowledge in a variety of technologies:
+I'm a final-year Computer Science and Engineering Student at COER,Roorkee, India, with a passion learnig new things. As a Data Analyst with the required skills in Python and Sql, skilled in creating dynamic and responsive projects in the Real Life  :
 
 <!-- Skills -->
 <p align="center">
