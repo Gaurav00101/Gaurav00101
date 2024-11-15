@@ -26,9 +26,9 @@ I'm a final-year Computer Science and Engineering Student at COER,Roorkee, India
 
 <!-- Skills -->
 <p align="center">
-  <a href="#">
+ <!-- <a href="#">
     <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  </a>
+  </a>-->
   <a href="#">
     <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   </a>
@@ -36,14 +36,14 @@ I'm a final-year Computer Science and Engineering Student at COER,Roorkee, India
   <a href="#">
     <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   </a>-->
-  <a href="#">
+ <!-- <a href="#">
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  </a>
-  <a href="#">
+  </a>-->
+ <!-- <a href="#">
     <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  </a>
+  </a>-->
   <a href="#">
-    <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   </a>
   <!--
   <a href="#">
